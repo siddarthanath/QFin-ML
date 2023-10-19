@@ -1,2 +1,2 @@
 # QFin-ML
-A suite containing Machine Learning applications within Quantitative Finance.
+A suite containing theoretical and practical implementations of Quantitative Finance principles.
